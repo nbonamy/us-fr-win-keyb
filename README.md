@@ -6,8 +6,8 @@ Just run `dist/setup.exe`.
 
 ## Usage
 
-| Modifier | Key | Result |
-|----------|--------|--------|
+| Modifier|Key|Result|
+|--|:--:|:--:|
 |<kbd>Alt</kbd>+<kbd>Ctrl</kbd>|a|à|
 |<kbd>Shift</kbd>+<kbd>Alt</kbd>+<kbd>Ctrl</kbd>|a|â|
 |<kbd>Alt</kbd>+<kbd>Ctrl</kbd>|c|ç|
